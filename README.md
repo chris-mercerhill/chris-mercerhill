@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hello World! 👋
+
+I am an artist who is interested in exploring the relationship between humans and technology.  More specifically, I am interested in what algorithms we create organically that then become digitized and vice versa.  Much of my work incorporates locally-sourced materials, hand- and machine-sewn upcycled / thrifted fabric, improvisational quilting, and generative drawings and watercolor paintings.
+
+My goal on github is to post some of my code and to find some collaborators who would like to take it in different directions.
+
+In the meantime, check out [my Instagram](https://instagram.com/chris.mercerhill) to see what I'm working on.
 
 <!--
 **chris-mercerhill/chris-mercerhill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
